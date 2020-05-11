@@ -9,7 +9,7 @@
   "content": "test",
   "id": "1",
   "metaData": {
-    "Language": "en"
+    "Language": ["en","de"]
     
   }
 },
@@ -17,7 +17,7 @@
   "content": "test",
   "id": "2",
   "metaData": {
-    "Language": "de"
+    "Language": ["de","en"]
   }
 }
 ]
